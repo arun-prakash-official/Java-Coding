@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class attendance {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -7,5 +8,6 @@ public class attendance {
         System.out.println("Attendance Percentage: ");
         int percent=days_attended*100/180;
         System.out.println(percent);
+        System.out.println(name+" have "+percent+"% attendance.");
     }
 }
