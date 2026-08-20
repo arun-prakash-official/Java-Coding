@@ -1,4 +1,3 @@
-package Arrays;
 import java.util.*;
 public class Seclargestele {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Arrays;
 public class Sumdiagonal {
     public static void main(String[] args) {
         int[][] matrix = {

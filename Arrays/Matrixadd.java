@@ -1,5 +1,3 @@
-package Arrays;
-
 public class Matrixadd {
     public static void main(String[] args) {
         int[][] matrix1 = {
